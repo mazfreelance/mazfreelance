@@ -26,8 +26,8 @@
 ## I am [Azmin](https://mohdazmin.com)
 
 - Web Developer
-- Full Stack Developer
 - Backend Developer
+- Full Stack Developer
 
 ![Metrics](/github-metrics.svg)
 ![Most used languages](/metrics.plugin.languages.details.svg)
